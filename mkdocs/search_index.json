@@ -1,0 +1,19 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "mkdocs-material-template-es\n\n\nPlantilla de \nmkdocs.org\n con \nmkdocs-material\n y en espa\u00f1ol.\n\n\nRecursos\n\n\n\n\nDocumentaci\u00f3n de \nMkDocs\n\n\nDocumentaci\u00f3n de \nmkdocs-material", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#mkdocs-material-template-es", 
+            "text": "Plantilla de  mkdocs.org  con  mkdocs-material  y en espa\u00f1ol.", 
+            "title": "mkdocs-material-template-es"
+        }, 
+        {
+            "location": "/#recursos", 
+            "text": "Documentaci\u00f3n de  MkDocs  Documentaci\u00f3n de  mkdocs-material", 
+            "title": "Recursos"
+        }
+    ]
+}
