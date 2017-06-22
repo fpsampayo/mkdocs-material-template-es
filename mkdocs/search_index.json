@@ -2,13 +2,23 @@
     "docs": [
         {
             "location": "/", 
-            "text": "mkdocs-material-template-es\n\n\nPlantilla de \nmkdocs.org\n con \nmkdocs-material\n y en espa\u00f1ol.\n\n\nRecursos\n\n\n\n\nDocumentaci\u00f3n de \nMkDocs\n\n\nDocumentaci\u00f3n de \nmkdocs-material", 
+            "text": "mkdocs-material-template-es\n\n\nPlantilla de \nmkdocs.org\n con \nmkdocs-material\n y en espa\u00f1ol.\n\n\nPuesta en marcha\n\n\n\n\nClonar repositorio:\n\n\n\n\n$ git clone https://github.com/fpsampayo/mkdocs-material-template-es.git\n\n\n\n\n\n\n\nInstalar \nvirtualenvwrapper\n.\n\n\nCrear virtualenv:\n\n\n\n\n$ mkvirtualenv mkdocs\n\n\n\n\n\n\n\nInstalar dependencias: \n\n\n\n\n(\nmkdocs\n)\n$ pip install -r requirements.txt\n\n\n\n\n\n\n\nIniciar servidor desarrollo: \n\n\n\n\n(\nmkdocs\n)\n$ mkdocs serve\n\n\n\n\n\n\n\nListo!\n\n\n\n\nPublicaci\u00f3n en gh-pages\n\n\nMkDocs incluye una opci\u00f3n para subir automaticamente a gh-pages la documentaci\u00f3n generada.\n\n\n(mkdocs)$ mkdocs gh-deploy\n\n\n\n\n\nRecursos\n\n\n\n\nDocumentaci\u00f3n de \nMkDocs\n\n\nDocumentaci\u00f3n de \nmkdocs-material", 
             "title": "Home"
         }, 
         {
             "location": "/#mkdocs-material-template-es", 
             "text": "Plantilla de  mkdocs.org  con  mkdocs-material  y en espa\u00f1ol.", 
             "title": "mkdocs-material-template-es"
+        }, 
+        {
+            "location": "/#puesta-en-marcha", 
+            "text": "Clonar repositorio:   $ git clone https://github.com/fpsampayo/mkdocs-material-template-es.git   Instalar  virtualenvwrapper .  Crear virtualenv:   $ mkvirtualenv mkdocs   Instalar dependencias:    ( mkdocs ) $ pip install -r requirements.txt   Iniciar servidor desarrollo:    ( mkdocs ) $ mkdocs serve   Listo!", 
+            "title": "Puesta en marcha"
+        }, 
+        {
+            "location": "/#publicacion-en-gh-pages", 
+            "text": "MkDocs incluye una opci\u00f3n para subir automaticamente a gh-pages la documentaci\u00f3n generada.  (mkdocs)$ mkdocs gh-deploy", 
+            "title": "Publicaci\u00f3n en gh-pages"
         }, 
         {
             "location": "/#recursos", 
