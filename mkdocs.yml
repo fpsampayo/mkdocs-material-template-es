@@ -1,0 +1,34 @@
+# Informacion de proyecto
+site_name: 'MkDocs'
+site_description: 'Plantilla para documentación'
+site_author: 'Francisco P. Sampayo'
+site_url: 'https://fpsampayo.github.com/mkdocs-material-template-es'
+
+# Repositorio
+repo_name: 'fpsampayo/mkdocs-material-template-es'
+repo_url: 'https://github.com/fpsampayo/mkdocs-material-template-es'
+
+# Copyright
+copyright: 'Copyright &copy; 2017 Francisco P. Sampayo'
+
+# Tema
+theme: material
+theme_dir: 'theme'
+
+# Documentación
+pages:
+    - Home: index.md
+
+# Opciones
+extra:
+  palette:
+    primary: 'orange'
+    accent: 'deep orange'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+
+# Extensiones
+markdown_extensions:
+  - codehilite(guess_lang=false)
+  - toc(permalink=true)
